@@ -1,19 +1,29 @@
-# Coding Assessment L-2 Code Submission Process with Boilerplate
+#  Select Your Choices
 
-Welcome to the coding assessment l2. We are excited to see your skills in action. Please follow the instructions below to submit your solution.
+Welcome to the Select your choice website.
+
+
+   ## Screenshorts
+   
+![17 07 2024_04 36 17_REC](https://github.com/user-attachments/assets/5ce82f5a-bcb2-4615-8938-43ba113e5f06)
+
+
+
 
 ## Getting Started
 
 1. **Clone or Download:**
    - If using Git, clone the repository using the following command:
      ```
-     git clone https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code.git
+     git clone [https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code.git](https://github.com/Vicky8180/Select-Category)
      ```
    - Alternatively, download the code as a ZIP file and extract it.
 
 2. **Navigate to Project Directory:**
 
-3. **Explore the Structure:**
+   
+
+4. **Explore the Structure:**
 Take a moment to review the project structure:
 
         project-root/
@@ -40,17 +50,4 @@ Take a moment to review the project structure:
 
 
 ---
-## Updated Submission Guidelines
 
-1. Fill out the form provided at [this link](https://forms.gle/MxuzmExHGXBh3hVk8).
-2. Provide the GitHub repository link of your project in the designated field.
-3. Share the hosted link of your project in the appropriate field.
-
-
-## Important Notes
-
-- Do not use any third-party libraries or frameworks.
-- Ensure that your project works as intended and is free from errors.
-- Make sure to include clear instructions on how to run your project (if necessary).
-
-Good luck! We look forward to reviewing your submission.
