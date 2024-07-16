@@ -1,0 +1,64 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+   
+    <title>Coding Assesment L2 boilerplate</title>
+
+</head>
+
+<body>
+    
+   
+    <script src="./script.js"></script>
+</body>
+
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Selection</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h1>SELECT YOUR CHOICE</h1>
+    <div class="buttons">
+        <button id="menBtn" class="active" onclick="showProducts('men')">
+            <div class="men_c1"> 
+                <img alt ="men" src="/user.png" class="button-icon">
+                <span>Men</span>
+               
+            </div>
+           
+        </button>
+        <button id="womenBtn" onclick="showProducts('women')">
+            <div class="men_c1"> 
+                <img alt="women" src="/woman (2).png" class="button-icon2">
+            <span>Women</span>
+          
+            </div>
+        </button>
+        <button id="kidsBtn" onclick="showProducts('kids')">
+            <div class="men_c1"> 
+                <img alt=""kid src="/little-kid (2).png" class="button-icon3">
+            <span>Kids</span>
+           
+            </div>
+        </button>
+    </div>
+    <div id="products" class="product-container">
+        <!-- Products will be displayed here -->
+
+        
+
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
