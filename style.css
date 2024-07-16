@@ -1,38 +1,5 @@
 @import url("https://fonts.google.com/specimen/Inter");
-/* html,
-body {
-  height: 100%;
-  width: 100%;
-  margin: 0;
-}
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: linear-gradient(to right bottom, #873572, black);
-}
-a {
-  display: inline-block;
-  color: lightgrey;
-  font-size: 16px;
-  font-family: "Roboto", sans-serif;
-  white-space: nowrap;
-  padding: 12px;
-  border: 1px solid white;
-  border-radius: 30px;
-  text-decoration: none;
-  transition: all 0.15s ease-in-out;
-}
 
-a:hover {
-  background: rgba(0, 0, 0, 0.23);
-  color: white;
-  transform: scale(1.03);
-  text-decoration: none;
-}
-a:active {
-  transform: scale(0.98);
-} */
 
 body {
   font-family: 'Inter', sans-serif;
@@ -171,13 +138,13 @@ height: 900px;
 .badge_text{
 
   position: absolute;
-  top: 10; /* Adjust to position the text where you want it */
+  top: 10; 
   left: 10; 
-  width:57%; /* Make the text span the width of the image */
-  text-align: center; /* Center the text */
-  background: rgb(255, 255, 255); /* Semi-transparent background for readability */
-  color: rgb(0, 0, 0); /* Text color */
-  padding: 10px; /* Adjust padding for spacing */
+  width:57%; 
+  text-align: center; 
+  background: rgb(255, 255, 255); 
+  color: rgb(0, 0, 0); 
+  padding: 10px; 
   box-sizing: border-box;
   border-radius: 7px;
   font-weight: bold;
@@ -213,9 +180,9 @@ height: 900px;
   justify-content: start;
   line-height:45px;
   overflow: hidden;
-  display: -webkit-box; /* Required for webkit-based browsers */
+  display: -webkit-box; 
   /* -webkit-box-orient: vertical;  */
-  -webkit-line-clamp: 1; /* Number of lines to show */
+  -webkit-line-clamp: 1;
   white-space: normal;
 }
 
@@ -225,12 +192,12 @@ height: 900px;
   margin-top: -2px;
 
 width: 50%;
-  margin: 0; /* Remove default margin */
-  display: -webkit-box; /* Required for webkit-based browsers */
-  -webkit-box-orient: vertical; /* Required for webkit-based browsers */
-  -webkit-line-clamp: 1; /* Number of lines to show */
-  overflow: hidden; /* Hides overflow text */
-  text-overflow: ellipsis; /* Display ellipsis (...) to indicate truncated text */
+  margin: 0; 
+  display: -webkit-box; 
+  -webkit-box-orient: vertical; 
+  -webkit-line-clamp: 1;
+  overflow: hidden; 
+  text-overflow: ellipsis; 
   white-space: normal;
   text-align: left;
   
