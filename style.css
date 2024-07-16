@@ -172,7 +172,7 @@ height: 900px;
 
   position: absolute;
   top: 10; /* Adjust to position the text where you want it */
-  left: 10; /* Adjust to position the text where you want it */
+  left: 10; 
   width:57%; /* Make the text span the width of the image */
   text-align: center; /* Center the text */
   background: rgb(255, 255, 255); /* Semi-transparent background for readability */
